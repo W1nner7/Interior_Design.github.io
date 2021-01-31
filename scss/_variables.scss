@@ -1,0 +1,71 @@
+$fa-font-path: "../../fonts/webfonts";
+
+$color-accent-light: #ffae00;
+$color-accent-dark: #ffa000;
+$color-light: #fff;
+$color-light-secondary: #eee;
+$color-dark: #222;
+
+$font-regular: 'Muli-Regular',
+sans-serif;
+$font-bold: 'Muli-Bold',
+sans-serif;
+
+$font-family-body: $font-regular;
+
+$container-xl: 1170px;
+
+$section-title-font: 3.5rem $font-bold;
+$section-title-font-md: 3rem $font-bold;
+$section-title-font-sm: 2.5rem $font-bold;
+
+$section-title-color: $color-dark;
+$section-padding-top: 80px;
+$section-padding-bottom: 80px;
+$section-title-margin-bottom: 49px;
+$section-padding-top-sm: 40px;
+$section-padding-bottom-sm: 40px;
+$section-title-margin-bottom-sm: 40px;
+
+$content-title-font: 2rem $font-bold;
+$content-title-color: $color-dark;
+$content-title-margin-bottom: 29px;
+
+$content-text-font: 1.5rem $font-regular;
+$content-text-color: $color-dark;
+
+$header-bg: $color-dark;
+
+$logo-font: 1.8rem $font-regular;
+
+$menu-link-font: 1.5rem $font-regular;
+$menu-link-color: $color-light;
+$menu-link-color-active: $color-accent-light;
+$menu-link-color-hover: $color-accent-light;
+
+$burger-decor-color: $color-accent-light;
+
+$top-title-font: 6rem $font-bold;
+$top-title-font-md: 5rem $font-bold;
+$top-title-font-sm: 4rem $font-bold;
+
+$top-title-color: $color-light;
+
+$breadcrumb-color: #e0e0e0;
+$breadcrumb-color-active: $color-accent-dark;
+$breadcrumb-font: 1.6rem $font-regular;
+
+$about-list-item-font: 1.5rem $font-regular;
+$about-list-item-color: $color-dark;
+
+$specificity-bg: $color-light-secondary;
+$specificity-item-bg: $color-light;
+
+$footer-bg: $color-dark;
+$footer-color: $color-light-secondary;
+$footer-font: 1.5rem $font-regular;
+
+$social-link-color: $color-light-secondary;
+$social-link-hover-color: $color-accent-dark;
+$social-link-font-size: 1.8rem;
+$social-link-font-size-sm: 1.5rem;
